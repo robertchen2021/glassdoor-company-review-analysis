@@ -9,7 +9,7 @@ Part 2: Sentiment Analysis<br>
 Part 3: Keywords Extraction and Topic Modeling<br>
 
 ## Problem Statement:
-This analysis aims to build a workflow for Glassdoor employee review tasks. Although the data in this project is about one company, the techniques can be applied to any mid-large sized company that has enough Glassdoor reviews.
+This analysis aims to build a workflow for Glassdoor company review tasks. Although the data in this project is about one company, the techniques can be applied to any mid-large sized company that has enough Glassdoor reviews.
 
 Specifically, we will find answer to these questions: what employees like and dislike about their company? Has the company’s reputation gotten better or worse over the years? What are the keywords that employees are talking about this company? What can this company do to improve employee engagement?
 

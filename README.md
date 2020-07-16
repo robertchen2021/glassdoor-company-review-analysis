@@ -1,8 +1,8 @@
-# Glassdoor Employee Review Analysis with NLP
+# Glassdoor Company Review Analysis with NLP
 Springboard Data Science course capstone project 2. 
 
 ## Project Overview:
-This project is a Glassdoor employee review analysis on a large company. The coding consists of 3 Jupyter Notebooks.
+This project is a Glassdoor company review analysis on a large company. The coding consists of 3 Jupyter Notebooks.
 
 Part 1: Data Cleaning and Exploratory Data Analysis<br>
 Part 2: Sentiment Analysis<br>

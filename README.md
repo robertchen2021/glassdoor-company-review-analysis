@@ -1,4 +1,4 @@
-# capstone2-employee-review-analysis
+# Glassdoor Employee Review Analysis with NLP
 Springboard Data Science course capstone project 2. 
 
 ## Project Overview:

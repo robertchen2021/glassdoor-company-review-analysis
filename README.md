@@ -10,9 +10,9 @@ Specifically, we will find answer to these questions: what employees like and di
 
 ## Project Overview:
 This project is a Glassdoor company review analysis on a large company.  We web-scrapped Glassdoor data on one large company.All the files in this project include:
-1. Dataset:
-2. Figures: 
-3. Jupyter notebooks : 
+1. Dataset
+2. Figures
+3. Jupyter notebooks  
 4. Final report
 5. Presentation slides
 
@@ -34,6 +34,11 @@ Among the most frequent job titles, Financial Associate group has the lowest sat
 The keywords are most clear in the top bi-gram plots. They are: good salary, good benefits, generous profit sharing, big company, work-life balance, upper management, low pay, long hours.
 #### 5. What can this company do to improve employee engagement?<br>
 This analysis identified the negative comments are mainly from call center employees. We suggest the company look into the salary, working hours and find solutions to address these issues. If call center employee engagement increases, the total employee engagement will increase significantly.
+
+
+## Project Contribution:
+This project has created a standard workflow for similar tasks. Given any company’s Glassdoor review data, the same structure and code can be applied with little tweaks, especially the data cleaning code blocks can be used without change since all Glassdoor review data follow the same format.
+
 
 ## Limitations:
 #### 1. Limitations: <br>

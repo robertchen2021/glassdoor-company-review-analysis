@@ -1,23 +1,10 @@
 # Glassdoor Company Review Analysis with NLP
-Springboard Data Science course capstone project 2. 
 
-
-## Problem Statement:
-This analysis aims to build a workflow for Glassdoor company review tasks. Although the data in this project is about one company, the techniques can be applied to any mid-large sized company that has enough Glassdoor reviews.
-
-Specifically, we will find answer to these questions: what employees like and dislike about their company? Has the company’s reputation gotten better or worse over the years? What are the keywords that employees are talking about this company? What can this company do to improve employee engagement?
+This project is a Glassdoor employer review analysis on a large company. The goals are to build a workflow for similar Glassdoor company review tasks and help employers gain insights on their employee engagement. Although the data in this project is about one company, the techniques can be applied to any mid-large sized company that has enough Glassdoor reviews. Specifically, we will find answer to these questions: what employees like and dislike about their company? Has the company’s reputation gotten better or worse over the years? What are the keywords that employees are talking about this company? What can this company do to improve employee engagement?
 
 
 ## Project Overview:
-This project is a Glassdoor company review analysis on a large company.  We web-scrapped Glassdoor data on one large company.All the files in this project include:
-1. Dataset
-2. Figures
-3. Jupyter notebooks  
-4. Final report
-5. Presentation slides
-
-
-#### The coding consists of 3 Jupyter notebooks.
+The analysis consists of 3 Jupyter notebooks.
 1. Data Cleaning and Exploratory Data Analysis<br>
 2. Sentiment Analysis<br>
 3. Keywords Extraction and Topic Modeling<br>

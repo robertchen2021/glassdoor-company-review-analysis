@@ -16,6 +16,16 @@ Python, Pandas, Regex, NLTK, TextBlob, Gensim, Spacy.
 See the presentation slides for a summary of this analysis.
 
 
+## Analysis Approaches:
+### 1. Data Cleaning and EDA:
+This dataset requires extensive cleaning and preprocessing because it is unstructred and untidy. I dropped duplicate records, handled missing values and performed feature engineering using Regex to extract data from different columns and different strings.
+
+### 2. Sentiment Analysis:
+For sentiment analysis, I used TextBlob to examine the sentiment of all the text columns 'Summary','Pro' and 'Con'. The polarity ranges from -1 to 1, with -1 denotes very negative and +1 denotes very positive. The subjectivity ranges from 0 to 1, with 0 denotes fact and 1 denotes is very much an opinion. The detailed notebook can be found here:
+
+### 3. Key Words Extraction and Topic Modeling:
+Before conducting topic modeling, I visualized the top unigram words using wordcloud and top bigram words using bar chart. Thus we can have a better sense of the key words and estimate the number of total topics. In topic modeling, I used Gensim's LDA model with Bag-of-Words and TF-IDF feature selections. Finally I delved into the unhappy group and extracted their comment's keywords using Spacy's rule-based matching.
+
 ## Key Findings:
 #### 1. What employees like and dislike about this company?<br>
 Employees love the good pay, generous benefits, profit sharing and a good work-life balance. Employees from call centers complain about the low pay, long hours handling phone calls and the management team. Project managers complain about the upper management team. Other anonymous employees which could consist of any job family complain about the aforementioned issues plus red tape of large corporations and constant changes.

@@ -25,6 +25,7 @@ Among the most frequent job titles, Financial Representatives have the lowest sa
 The keywords are most clear in the top bi-gram plots. They are: good salary, good benefits, generous profit sharing, big company, work-life balance, upper management, low pay, long hours.
 #### 5. What can this company do to improve employee engagement?<br>
 This analysis identified the negative comments are mainly from call center employees. We suggest the company look into the salary, working hours and find solutions to address these issues. If call center employee engagement increases, the total employee engagement will increase significantly.
+
 ![](figures/top20_bigram_con.png)
 
 ## Project Contribution:

@@ -2,6 +2,7 @@
 
 This project is a Glassdoor employer review analysis on a large company. The goals are to build a workflow for similar Glassdoor company review tasks and help employers gain insights on their employee engagement. Although the data in this project is about one company, the techniques can be applied to any company that has enough Glassdoor reviews. Specifically, we will find answers to these questions: what employees like and dislike about their company? Has the company’s reputation gotten better or worse over the years? What are the keywords that employees say about this company? What can this company do to improve employee engagement?
 
+To gather data for this analysis, I scrape Glassdoor employer reviews after obtaining Glassdoor's written permission.
 
 ## Project Overview:
 The analysis consists of 3 Jupyter notebooks.

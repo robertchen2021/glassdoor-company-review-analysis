@@ -2,7 +2,6 @@
 
 This project is a Glassdoor employer review analysis on a large company. The goals are to build a workflow for similar Glassdoor company review tasks and help employers gain insights on their employee engagement. Although the data in this project is about one company, the techniques can be applied to any company that has enough Glassdoor reviews. Specifically, we will find answers to these questions: what employees like and dislike about their company? Has the company’s reputation gotten better or worse over the years? What are the keywords that employees say about this company? What can this company do to improve employee engagement?
 
-To gather data for this analysis, I scrape Glassdoor employer reviews after obtaining Glassdoor's written permission.
 
 ## Project Overview:
 The analysis consists of 3 Jupyter notebooks.
@@ -18,7 +17,7 @@ See the presentation slides for a summary of this analysis.
 
 ## Analysis Approaches:
 #### 1. Data Cleaning and EDA:
-This dataset requires extensive cleaning and preprocessing because it is unstructred and untidy. I dropped duplicate records, handled missing values and performed feature engineering using Regex to extract data from different columns and different strings. I also explored the data using visualization which gained meaningful insights on this company's engagement. The detailed notebook of this part can be found <a href="https://github.com/teresanan/glassdoor-company-review-analysis/blob/master/notebooks/1-data-cleaning-and-EDA.ipynb">here</a>.
+To gather data for this analysis, I scraped Glassdoor employer reviews after obtaining Glassdoor's written permission.The data requires extensive cleaning and preprocessing because it is unstructred and untidy. I dropped duplicate records, handled missing values and performed feature engineering using Regex to extract data from different columns and different strings. I also explored the data using visualization which gained meaningful insights on this company's engagement. The detailed notebook of this part can be found <a href="https://github.com/teresanan/glassdoor-company-review-analysis/blob/master/notebooks/1-data-cleaning-and-EDA.ipynb">here</a>.
 
 #### 2. Sentiment Analysis:
 For sentiment analysis, I used TextBlob to examine the sentiment of all the text columns 'Summary','Pro' and 'Con'. The polarity ranges from -1 to 1, with -1 denotes very negative and +1 denotes very positive. The subjectivity ranges from 0 to 1, with 0 denotes fact and 1 denotes is very much an opinion. The detailed notebook of this part can be found <a href="https://github.com/teresanan/glassdoor-company-review-analysis/blob/master/notebooks/2-sentiment-analysis.ipynb">here</a>

@@ -9,6 +9,9 @@ The analysis consists of 3 Jupyter notebooks.
 2. Sentiment Analysis<br>
 3. Keywords Extraction and Topic Modeling<br>
 
+Tools used:
+Python, Pandas, Regex, NLTK, TextBlob, Gensim, Spacy.
+
 
 ## Key Findings:
 #### 1. What employees like and dislike about this company?<br>

@@ -9,10 +9,10 @@ Specifically, we will find answer to these questions: what employees like and di
 
 
 ## Project Overview:
-This project is a Glassdoor company review analysis on a large company. All the files include:
-1. Dataset
-2. Figures
-3. Jupyter notebooks
+This project is a Glassdoor company review analysis on a large company.  We web-scrapped Glassdoor data on one large company.All the files in this project include:
+1. Dataset:
+2. Figures: 
+3. Jupyter notebooks : 
 4. Final report
 5. Presentation slides
 

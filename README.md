@@ -29,12 +29,13 @@ Employees love the good pay, generous benefits, profit sharing and a good work-l
 #### 2. Has the company’s reputation gotten better or worse in the recent year?<br>
 This company did great compared to other companies’ average ratings on Glassdoor. The majority of employees are satisfied with the company. Its rating has been increasing since 2008 with small dips in 2011, 2013 and 2017.
 #### 3. Which job families have the highest and lowest satisfaction rates?<br>
-Among the most frequent job titles, Financial Associate group has the lowest satisfaction and Relationship Managers give the highest ratings. Since we know the negative comments are from call center employees, our best guess is Financial Representatives work in the call center.
+Among the most frequent job titles, Financial Representatives have the lowest satisfaction and Software Engineers give the highest ratings. Since we know the negative comments are from call center employees, our best guess is Financial Representatives work in the call center.
+![](figures/freq10_job_pol_sub.png)
 #### 4. What are the keywords that people say about this company?<br>
 The keywords are most clear in the top bi-gram plots. They are: good salary, good benefits, generous profit sharing, big company, work-life balance, upper management, low pay, long hours.
 #### 5. What can this company do to improve employee engagement?<br>
 This analysis identified the negative comments are mainly from call center employees. We suggest the company look into the salary, working hours and find solutions to address these issues. If call center employee engagement increases, the total employee engagement will increase significantly.
-
+![](figures/top20_bigram_con.png)
 
 ## Project Contribution:
 This project has created a standard workflow for similar tasks. Given any company’s Glassdoor review data, the same structure and code can be applied with little tweaks, especially the data cleaning code blocks can be used without change since all Glassdoor review data follow the same format.

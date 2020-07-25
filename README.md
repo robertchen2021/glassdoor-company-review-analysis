@@ -12,6 +12,8 @@ The analysis consists of 3 Jupyter notebooks.
 Tools used:
 Python, Pandas, Regex, NLTK, TextBlob, Gensim, Spacy.
 
+See the presentation slides for a summary of this analysis.
+
 
 ## Key Findings:
 #### 1. What employees like and dislike about this company?<br>

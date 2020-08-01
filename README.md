@@ -12,7 +12,7 @@ The analysis consists of 3 Jupyter notebooks.
 Tools used:
 Python, Pandas, Regex, NLTK, TextBlob, Gensim, Spacy.
 
-See the presentation slides for a summary of this analysis.
+See the <a href="https://github.com/teresanan/glassdoor-company-review-analysis/blob/master/presentation_slides.pdf">presentation slides</a> for a summary of this analysis. 
 
 
 ## Analysis Approaches:

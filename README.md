@@ -32,7 +32,7 @@ Employees love the good pay, generous benefits, profit sharing and a good work-l
 This company did great compared to other companies’ average ratings on Glassdoor. The majority of employees are satisfied with the company. Its rating has been increasing since 2008 with small dips in 2011, 2013 and 2017.
 #### 3. Which job families have the highest and lowest satisfaction rates?<br>
 Among the most frequent job titles, Financial Representatives have the lowest satisfaction and Software Engineers & System Analysts give the highest ratings. Since we know the negative comments are from call center employees, our best guess is Financial Representatives work in the call center.
-![](figures/freq10_job_pol_sub.png)
+![](figures/freq10_job_titles_emoji.png)
 #### 4. What are the keywords that people say about this company?<br>
 The keywords are most clear in the top bi-gram plots. They are: good salary, good benefits, generous profit sharing, big company, work-life balance, upper management, low pay, long hours.
 #### 5. What can this company do to improve employee engagement?<br>

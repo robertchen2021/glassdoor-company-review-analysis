@@ -41,11 +41,11 @@ This analysis identified the negative comments are mainly from call center emplo
 ![](figures/top20_bigram_con.png)
 
 ## Project Contribution:
-This project has created a standard workflow for similar tasks. Given any company’s Glassdoor review data, the same structure and code can be applied with little tweaks, especially the data cleaning code blocks can be used without change since all Glassdoor review data follow the same format.
+This project has created a reuseable standard workflow for similar tasks. Given any company’s Glassdoor review data, the same structure and code can be applied with little tweaks, especially the data cleaning code blocks can be used without change since all Glassdoor review data follow the same format.
 
 
 ## Limitations & Future Work:
 Since there are 1578 unhappy employees submitted anonymously, we can’t do a more granular analysis on specific job families. It is our assumption that Financial Representatives work in call centers, if this is untrue, we would need to analyze this further. For future work, we could do a similar analysis on this company's competitor and see how they compare and what they can learn from each other.
 
 ## Acknowledgement:
-I would like to extend my appreciation to Glassdoor for allowing me web scraping the data, so I could conduct this analysis. 
+I would like to extend my appreciation to Glassdoor for allowing me web scraping the data. A sincere thanks to my Springboard mentor Tommy Blanchard for his guidance. 
